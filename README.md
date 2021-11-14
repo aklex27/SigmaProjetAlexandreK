@@ -18,4 +18,4 @@ Les contraintes étaient les suivantes :
 - J'ai réalisé mon projet  avec le SGBD MariaDB ( MYSQL ne fonctionnait pas sur mon poste, j'ai pris la responsabilié d'utiliser  MariaDB)
 - Mon application WEB est désigné grace au framework Bootstrap
 
-<img src="C:\Users\Alexandre\Desktop\imgblog\sigma.jpg">
+<img src="\Users\Alexandre\Desktop\imgblog\sigma.jpg">
