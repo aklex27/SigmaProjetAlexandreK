@@ -19,3 +19,12 @@ Les contraintes étaient les suivantes :
 - Mon application WEB est désigné grace au framework Bootstrap
 
 <img src="C:\Users\Alexandre\Desktop\imgblog\sigma.jpg">
+
+J'ai commencé à développer mon application WEB grâce à LARAVEL, c'était une première expérience.
+Ayant déjà développer sur Symfony, les mécaniques n'étaient pas les mêmes, je devais m'adapter rapidement.
+
+Le moteur de template utilisé par les deux frameworks est différent. LARAVEL utilise Blade, alors que Symfony utilise Twig.
+
+Avec Blade, j'ai eu la possibilité de réutiliser le code, ce qui signifie qu'il est possible d'utiliser la fonction du controleur dans le modèle.
+
+J'ai notamment rencontré un problème lorsque je voulais utiliser Eloquent pour pouvoir établir des relations entre modèles , en ayant respecter toutes les étapes des migrations et des seeders. 
